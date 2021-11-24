@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/patience/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/patience/static/js/main.336d513e.chunk.js",
+    "main.js.map": "/patience/static/js/main.336d513e.chunk.js.map",
+    "runtime-main.js": "/patience/static/js/runtime-main.c9ce32ca.js",
+    "runtime-main.js.map": "/patience/static/js/runtime-main.c9ce32ca.js.map",
+    "static/js/2.180d1bb5.chunk.js": "/patience/static/js/2.180d1bb5.chunk.js",
+    "static/js/2.180d1bb5.chunk.js.map": "/patience/static/js/2.180d1bb5.chunk.js.map",
+    "static/js/3.00367c6e.chunk.js": "/patience/static/js/3.00367c6e.chunk.js",
+    "static/js/3.00367c6e.chunk.js.map": "/patience/static/js/3.00367c6e.chunk.js.map",
+    "index.html": "/patience/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/patience/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.180d1bb5.chunk.js.LICENSE.txt": "/patience/static/js/2.180d1bb5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/patience/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9ce32ca.js",
+    "static/js/2.180d1bb5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.336d513e.chunk.js"
+  ]
+}
