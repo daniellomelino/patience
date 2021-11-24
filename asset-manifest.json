@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/patience/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/patience/static/js/main.f381d4fd.chunk.js",
-    "main.js.map": "/patience/static/js/main.f381d4fd.chunk.js.map",
+    "main.js": "/patience/static/js/main.401adecd.chunk.js",
+    "main.js.map": "/patience/static/js/main.401adecd.chunk.js.map",
     "runtime-main.js": "/patience/static/js/runtime-main.0ddb35c4.js",
     "runtime-main.js.map": "/patience/static/js/runtime-main.0ddb35c4.js.map",
     "static/js/2.53654d0b.chunk.js": "/patience/static/js/2.53654d0b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0ddb35c4.js",
     "static/js/2.53654d0b.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f381d4fd.chunk.js"
+    "static/js/main.401adecd.chunk.js"
   ]
 }
